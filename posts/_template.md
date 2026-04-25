@@ -1,7 +1,7 @@
 ---
 title: Post Title
 date: 2026-02-14
-author: Your Name
+author: Runyu Zhou
 summary: Short description
 tags:
   - tag1
