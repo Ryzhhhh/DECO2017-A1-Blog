@@ -1,45 +1,26 @@
-# Student Blog Template
+# DECO2017 A1 Blog
+This repository contains my A1 blog for DECO2017. The blog documents my reasoning process while planning and developing my A2 Web App Prototype.
 
-This repository is a template for students to create and deploy their own blog using Markdown files.
+## Published Blog
+https://ryzhhhh.github.io/DECO2017-A1-Blog/
 
-## Creating a Blog Post
-1. Open the `/posts` folder.
-1. Copy `_template.md`
-1. Rename your copy (example: `2026-02-14-first-blog.md`)
-1. Edit the front matter at the top:
-    - title
-    - date
-    - summary (optional)
-    - tags (optional)
-1. Write your blog post underneath in markdown
-1. [Commit](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop) and [push](https://docs.github.com/en/desktop/making-changes-in-a-branch/pushing-changes-to-github-from-github-desktop) your changes to the `main` branch.
+## Repository Link
+https://github.com/Ryzhhhh/DECO2017-A1-Blog
 
-Your blog will automatically update and publish online.
+## Blog Focus
+The posts focus on:
+- identifying core functional requirements
+- translating requirements into wireframes and user flows
+- making design and implementation decisions
+- considering trade-offs, constraints, and feasibility
+- planning implementation, evaluation, accessibility, and responsible design
 
-Your site will be available at: `https://<your-github-username>.github.io/<repository-name>`.
+## Planned Blog Posts
+1. Defining the Project Direction and Core Functional Requirements
+2. Translating Requirements into Wireframes and User Flow
+3. Standardising UI Patterns to Support Consistent Implementation
+4. Defining Requirements for Item Detail and Create Item Pages
+5. Planning Implementation, Testing and Responsible Design
 
-### Professional Tip
-Your blog is public and can be shared with future employers. Consider treating posts as part of your portfolio and edit the `/assets/style.css` to show off your design skills.
-
-## What Happens Behind the Scenes
-This template automatically:
-- Builds your blog
-- Converts Markdown into webpages
-- Publishes your site online
-- The only configuration needed is to set the "Build and deployment" source to "GitHub Actions". This is found in "Settings" ➔ "Pages".
-
-
-## Do Not Edit These Folders
-These are automatically generated or required for publishing:
-```
-dist/
-.github/
-scripts/
-```
-
-## Optional: Preview Your Blog Locally
-This is only needed if you want to test changes before publishing.
-1. Install the required dependencies: `npm install`
-1. Run the build script: `npm run build`
-
-The generated files will be in the `dist` folder. You can launch this using Live Server in VSCode.
+## Author
+Runyu Zhou
