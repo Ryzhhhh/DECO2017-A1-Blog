@@ -1,5 +1,5 @@
 ---
-title: Defining a Student Resource-Sharing Community Hub
+title: Defining a student Resource-Sharing community hub
 date: 2026-04-25
 author: Runyu Zhou
 summary: This post reflects on the core functional requirements of my proposed web application and explains how I decided which features should be essential for the prototype.
@@ -10,7 +10,7 @@ tags:
   - user-needs
 ---
 
-# Defining a Student Resource-Sharing Community Hub
+# Defining a student Resource-Sharing community hub
 
 In this project, our aim is to design a community platform for international students in Sydney to share second-hand resources. This platform is not merely a marketplace for buying and selling second-hand items; rather, it seeks to establish a community hub where students can discover resources, share items, post requests and connect with one another, addressing the genuine needs they face when moving in, moving out and adapting to life in the local area.
 
