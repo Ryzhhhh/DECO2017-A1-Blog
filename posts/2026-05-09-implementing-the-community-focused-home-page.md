@@ -1,6 +1,6 @@
 ---
-title: Implementing the Community-Focused Homepage
-date: 2026-04-28
+title: Implementing the Community-focused Homepage
+date: 2026-05-09
 author: Runyu Zhou
 summary: This post reflects on the implementation of the redesigned homepage, including the top navigation, two-path user entry, local image assets, visual refinements, and the need to preserve existing page functionality while improving the community hub experience.
 tags:
@@ -9,7 +9,7 @@ tags:
   - visual-refinement
 ---
 
-# Implementing the Community-Focused Homepage
+# Implementing the Community-focused Homepage
 
 After finalising the item detail page and the overall visual direction, I began implementing the new homepage in code. The focus of this implementation was not simply to replace the page’s styling, but to ensure the homepage more clearly supported the site’s positioning as a community hub. The new homepage needed to distinguish between two core user pathways: users wishing to purchase individual items could navigate to ‘Browse Listings’, whilst those wishing to buy or sell multiple items at once, view clearance sales due to moving house, or post bulk requests could navigate to the ‘Community Board’.
 
