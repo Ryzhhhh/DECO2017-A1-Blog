@@ -9,18 +9,21 @@ https://github.com/Ryzhhhh/DECO2017-A1-Blog
 
 ## Blog Focus
 The posts focus on:
-- identifying core functional requirements
-- translating requirements into wireframes and user flows
-- making design and implementation decisions
-- considering trade-offs, constraints, and feasibility
-- planning implementation, evaluation, accessibility, and responsible design
+- identifying core functional requirements and project scope
+- translating requirements into wireframes, user flows, and navigation decisions
+- making implementation decisions for the listing detail page and homepage
+- considering trade-offs, constraints, and technical feasibility
+- planning evaluation, accessibility, responsible design, and future data needs
 
-## Planned Blog Posts
-1. Defining the Project Direction and Core Functional Requirements
-2. Translating Requirements into Wireframes and User Flow
-3. Standardising UI Patterns to Support Consistent Implementation
-4. Defining Requirements for Item Detail and Create Item Pages
-5. Planning Implementation, Testing and Responsible Design
+## Blog Posts
+1. Defining a Student Resource-Sharing Community Hub
+2. Using Wireframes to Structure Community-Based User Flows
+3. Implementing the Item Detail Page
+4. Implementing the Community-Focused Homepage
+5. Planning Evaluation and Responsible Design
+
+## AI Acknowledgement
+I used Copilot and codex to support several aspects of this assignment, including refining written explanations, troubleshooting during the development process, and addressing some implementation details. All analytical decisions, visual materials, implementation choices, and final submitted content were independently reviewed, verified, and edited by me. The use of Copilot was limited to support and did not replace my own critical thinking, authorship, or academic judgement.
 
 ## Author
 Runyu Zhou
