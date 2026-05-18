@@ -23,7 +23,7 @@ The posts focus on:
 5. Planning Evaluation and Responsible Design
 
 ## AI Acknowledgement
-I used Copilot and codex to support several aspects of this assignment, including refining written explanations, troubleshooting during the development process, and addressing some implementation details. All analytical decisions, visual materials, implementation choices, and final submitted content were independently reviewed, verified, and edited by me. The use of Copilot was limited to support and did not replace my own critical thinking, authorship, or academic judgement.
+I used Copilot and codex to support several aspects of this assignment, including refining written explanations, troubleshooting during the development process, and addressing some implementation details. All analytical decisions, visual materials, implementation choices, and final submitted content were independently reviewed, verified, and edited by me. The use of Copilot and codex was limited to support and did not replace my own critical thinking, authorship, or academic judgement.
 
 ## Author
 Runyu Zhou
