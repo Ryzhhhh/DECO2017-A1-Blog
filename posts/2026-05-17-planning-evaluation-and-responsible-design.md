@@ -1,5 +1,5 @@
 ---
-title: Planning Evaluation and Responsible Design
+title: Planning evaluation and responsible design
 date: 2026-05-17
 author: Runyu Zhou
 summary: This post reflects on how the student resource-sharing hub could be evaluated in the future, focusing on usability, accessibility, privacy, safety, and responsible student-to-student exchange.
@@ -9,7 +9,7 @@ tags:
   - future-work
 ---
 
-# Planning Evaluation and Responsible Design
+# Planning evaluation and responsible design
 
 Having completed the implementation of the main pages and some key features, the next step is to consider how to evaluate the platform. For this second-hand resource-sharing platform for international students, the mere fact that the pages load correctly is merely a basic requirement; what is more important is whether users can understand the purpose of the various features and successfully complete real-world tasks.
 
@@ -19,6 +19,6 @@ Accessibility is also a crucial part of the subsequent evaluation. As the brief 
 
 In terms of responsibility, as this platform involves connections between students and in-person collection, privacy and security must be taken into account. The current prototype does not prioritise the implementation of a real payment or order system, as payment functionality would introduce higher risks regarding privacy, finance and liability. Instead, at this stage, it is recommended that users collect items on campus or in public areas, refrain from disclosing sensitive personal information, and provide accurate descriptions of the items’ condition.
 
-Future features should also be expanded gradually around the goal of creating a community hub, rather than blindly adding complex functions. Valuable directions include: post type filtering on the Community Board, campus-based filtering, saved posts, reporting inappropriate content, seller profiles, and a moving-out bundle template. These features can continue to support resource sharing and mutual assistance among international students.
+Future features should also be expanded gradually around the goal of creating a community hub, rather than blindly adding complex functions. Before adding more features, a simple ERD would help clarify the relationships between Users, Listings, Community Posts, Messages and Categories. Valuable directions include: post type filtering on the Community Board, campus-based filtering, saved posts, reporting inappropriate content, seller profiles, and a moving-out bundle template. These features can continue to support resource sharing and mutual assistance among international students.
 
 Overall, the focus of future evaluations should not be on the number of features the platform offers, but rather on whether users can safely, clearly and efficiently discover resources, post requests and contact other students. This approach will also help us maintain the project’s positioning as a community hub, rather than allowing it to gradually evolve into a complex e-commerce system.
