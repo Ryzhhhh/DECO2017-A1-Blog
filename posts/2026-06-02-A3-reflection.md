@@ -3,12 +3,11 @@ title: Final Reflection on Bla Bla
 date: 2026-06-02
 author: Runyu Zhou
 summary: This post evaluates the final Bla Bla prototype, focusing on technical performance, user experience, accessibility, functional requirements, and future improvements.
-
 tags:
   - evaluation
   - reflection
   - performance
-  - accessbility
+  - accessibility
 ---
 
 # Final Reflection on Bla Bla
@@ -19,6 +18,9 @@ The purpose of this reflection is primarily to evaluate the web application prot
 Whilst the A1 blog focuses more on planning the overall direction, design concepts and development objectives, this reflection will instead review the final prototype and evaluate its actual performance. I will assess BlaBla in terms of technical performance, user experience, accessibility, functional requirements and future technical improvements. Overall, I believe BlaBla has successfully demonstrated the core workflow of a student-centred community platform: users can log in, browse product listings, filter and view product details, save items to their favourites, communicate with sellers online, and publish content. However, the evaluation has also identified several areas for optimisation, such as image resource management and performance issues, LCP optimisation, structured product listing data, and the depth of the user experience regarding messaging and search. These issues all require further optimisation and resolution.
 
 ## Evaluation Methods
+
+| Evaluation area | Method used | Evidence collected |
+｜ --- ｜ --- ｜ --- ｜
 
 
 ## Performance and Technical Behaviour
