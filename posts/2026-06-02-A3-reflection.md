@@ -44,13 +44,17 @@ Another technical issue relates to image resource management. During testing, so
 | Community Page | 96 | 100 | 78 | 91 | Strong loading performance and accessibility; LCP was 1.4s |
 | Category Page | 95 | 100 | 78 | 91 | Browse page performed well with stable layout; LCP was 1.6s |
 
-![Lighthouse result for the home page](/assets/images/lighthouse-homepage.png)
-![Home page Lighthouse metrics showing LCP](/assets/images/lighthouse-homepage-metrics.png)
-![Lighthouse result for the community page](/assets/images/lighthouse-community.png)
-![Community page Lighthouse metrics showing LCP](/assets/images/lighthouse-community-metrics.png)
-![Lighthouse result for the category page](/assets/images/lighthouse-category.png)
-![Category page Lighthouse metrics showing LCP](/assets/images/lighthouse-category-metrics.png)
+![Lighthouse result for the home page](/DECO2017-A1-Blog/assets/images/lighthouse-homepage.png)
 
+![Home page Lighthouse metrics showing LCP](/DECO2017-A1-Blog/assets/images/lighthouse-homepage-metrics.png)
+
+![Lighthouse result for the community page](/DECO2017-A1-Blog/assets/images/lighthouse-community.png)
+
+![Community page Lighthouse metrics showing LCP](/DECO2017-A1-Blog/assets/images/lighthouse-community-metrics.png)
+
+![Lighthouse result for the category page](/DECO2017-A1-Blog/assets/images/lighthouse-category.png)
+
+![Category page Lighthouse metrics showing LCP](/DECO2017-A1-Blog/assets/images/lighthouse-category-metrics.png)
 
 ## User Experience and Accessibility
 From a user experience perspective, the final prototype of Bla Bla largely supports the platform scenario for international student resource sharing established in A1. Users can navigate from the homepage to browse relevant resources, community posts or publish content, which makes the platform feel more like a student resource-sharing hub rather than a list of products. During user testing tasks, I observed that users found the ‘browse’ process relatively straightforward. Users could first browse shared items, then view prices and item details via listing cards, and finally proceed to the details page to save items or contact sellers. This indicates that the core resource discovery flow is quite clear. The test results for the community board also largely aligned with the initial objectives. Users can browse posts, view comments, or find suitable resources by posting themselves. This ensures the platform retains its community-driven, mutual-aid character, rather than centring solely on the exchange of goods.
