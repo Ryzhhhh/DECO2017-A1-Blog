@@ -44,12 +44,12 @@ Another technical issue relates to image resource management. During testing, so
 | Community Page | 96 | 100 | 78 | 91 | Strong loading performance and accessibility; LCP was 1.4s |
 | Category Page | 95 | 100 | 78 | 91 | Browse page performed well with stable layout; LCP was 1.6s |
 
-![Lighthouse result for the home page](../assets/images/lighthouse-homepage.png)
-![Home page Lighthouse metrics showing LCP](../assets/images/lighthouse-homepage-metrics.png)
-![Lighthouse result for the community page](../assets/images/lighthouse-community.png)
-![Community page Lighthouse metrics showing LCP](../assets/images/lighthouse-community-metrics.png)
-![Lighthouse result for the category page](../assets/images/lighthouse-category.png)
-![Category page Lighthouse metrics showing LCP](../assets/images/lighthouse-category-metrics.png)
+![Lighthouse result for the home page](/assets/images/lighthouse-homepage.png)
+![Home page Lighthouse metrics showing LCP](/assets/images/lighthouse-homepage-metrics.png)
+![Lighthouse result for the community page](/assets/images/lighthouse-community.png)
+![Community page Lighthouse metrics showing LCP](/assets/images/lighthouse-community-metrics.png)
+![Lighthouse result for the category page](/assets/images/lighthouse-category.png)
+![Category page Lighthouse metrics showing LCP](/assets/images/lighthouse-category-metrics.png)
 
 
 ## User Experience and Accessibility
